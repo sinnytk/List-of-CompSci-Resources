@@ -1,4 +1,4 @@
-#List of Computer Science resources
+# List of Computer Science resources
 
 A list of Computer Science related topics that I find throughout my time scouring the internet.
 

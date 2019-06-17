@@ -7,3 +7,4 @@ Please refer to CONTRIBUTING.md if you want to contribute to the list.
 
 ## General:
 - [What is an API (a bit JS oriented)](https://www.robinwieruch.de/what-is-an-api-javascript/)
+- [Difference between HTML DOM & ReactDom](https://github.com/sinnytk/List-of-CompSci-Resources)
